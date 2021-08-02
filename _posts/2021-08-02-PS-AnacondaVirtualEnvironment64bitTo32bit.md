@@ -32,9 +32,9 @@ set conda_force_32bit=1
     <pre><code>conda activate <span style="color: red;">py38_32</span></code></pre>
 
 3. 주피터 실행
-    ```python
-    jupyter notebook
-    ```
+```python
+jupyter notebook
+```
 4. bit 확인 방법
 
     * urs창 확인
