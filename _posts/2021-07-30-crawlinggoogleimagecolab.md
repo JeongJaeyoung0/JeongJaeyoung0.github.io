@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[Crawling] Google image(colab)"
-subtitle:   "crawlinggoogleimagecolab"
+title: "[Crawling] Google image(colab)"
+subtitle: "crawlinggoogleimagecolab"
 categories: python
 tags: crawling
 comments: true
