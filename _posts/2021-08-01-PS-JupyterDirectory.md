@@ -9,7 +9,9 @@ comments: true
 
 # jupyter 디렉토리 변경
 
-1. `cmd` 실행
+* * *
+
+1. cmd 실행
 2. configure 파일 생성하기
 ```python
 jupyter notebook --generate-config

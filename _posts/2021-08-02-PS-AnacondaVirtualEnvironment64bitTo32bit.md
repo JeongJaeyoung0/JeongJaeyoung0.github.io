@@ -20,19 +20,19 @@ python --version
 set conda_force_32bit=1
 ```
 4. 버전 값 입력 (2번의 버전 값을 3.x.x에 입력)
-  <pre><code>conda create -n <span style="color: red;">py38_32</span> python=3.8.5 anaconda</code></pre>
+    <pre><code>conda create -n <span style="color: red;">py38_32</span> python=3.8.5 anaconda</code></pre>
 <br>
 
 ## ● 설정 후 주피터 실행 방법
 
 1. cmd 실행
 2. 32bit 가상환경으로 도입
-<pre><code>conda activate <span style="color: red;">py38_32</span></code></pre>
+    <pre><code>conda activate <span style="color: red;">py38_32</span></code></pre>
 
 3. 주피터 실행
-```python
-jupyter notebook
-```
+    ```python
+    jupyter notebook
+    ```
 4. bit 확인 방법
 
     * urs창 확인
