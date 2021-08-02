@@ -21,7 +21,6 @@ jupyter notebook --generate-config
     C:\Users\컴퓨터명\.jupyter\ `jupyter_notebook_config`
 
 4. `#` 삭제, 노란색 글자에 디렉토리 지정
-
     * `# c.NotebookApp.notebook_dir = ''` 를 아래와 같이 변경
     * `c.NotebookApp.notebook_dir = 'G:\내 드라이브'`
 

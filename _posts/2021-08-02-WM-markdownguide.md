@@ -2,7 +2,7 @@
 layout: post
 title: "[MD] markdown guide"
 subtitle: "markdownguide"
-categories: wepapp
+categories: webapp
 tags: markdown
 comments: true
 ---
