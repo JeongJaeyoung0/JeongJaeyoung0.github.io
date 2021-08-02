@@ -51,9 +51,9 @@ comments: true
 3. 세 번째
 ### ● 순서 X ( `*` , `+` , `-` )
     <pre><code>* A
-      + B
-        - C
-          * D</code></pre>
+    nbsp;nbsp;+ B
+    nbsp;nbsp;nbsp;nbsp;- C
+    nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;* D</code></pre>
     
 * A
   + B
@@ -81,7 +81,7 @@ comments: true
 
 <br>
 
-### 4.1. Code block
+### 4.2. Code block
 * `<pre><code>{Code}</code></pre>` 이용 방법
 
 ```
