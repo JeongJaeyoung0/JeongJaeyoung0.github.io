@@ -9,6 +9,8 @@ comments: true
 
 # [MD] markdown guide
 
+* * *
+
 ## 1. Headers
 ```
 # This is a H1
@@ -30,9 +32,11 @@ comments: true
 ## 2. BlockQuote
 ```
 > First blockqute.
+>
 >	> Second blockqute.
 ```
 > First blockqute.
+>
 >	> Second blockqute.
 
 <br>
@@ -49,12 +53,14 @@ comments: true
 3. 세 번째
 ### ● 순서 X ( `*` , `+` , `-` )
 ```
+
 * A
   + B
     - C
       * D
         + E
           - F
+
 ```
 * A
   + B
@@ -96,7 +102,7 @@ test code
 ```
 <pre><code>test code</code></pre>
 
-* `"```"` 이용 방법
+* "```" 이용 방법
 
 <pre><code>```
 test code

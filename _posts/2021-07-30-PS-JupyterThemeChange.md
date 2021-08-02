@@ -9,6 +9,8 @@ comments: true
 
 # jupyter 테마 변경
 
+* * *
+
 1. cmd 실행
 2. juptyerthemes 설치
 ```python
