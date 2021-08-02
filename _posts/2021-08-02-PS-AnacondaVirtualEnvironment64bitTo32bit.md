@@ -18,7 +18,7 @@ comments: true
 python --version
 ```
 3. 아나콘다 32bit 설치
-```python
+```
 set conda_force_32bit=1
 ```
 4. 버전 값 입력 (2번의 버전 값을 3.x.x에 입력)

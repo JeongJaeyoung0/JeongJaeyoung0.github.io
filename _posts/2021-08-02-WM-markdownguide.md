@@ -50,10 +50,10 @@ comments: true
 2. 두 번째
 3. 세 번째
 ### ● 순서 X ( `*` , `+` , `-` )
-    <pre><code>* A
-    nbsp;nbsp;+ B
-    nbsp;nbsp;nbsp;nbsp;- C
-    nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;* D</code></pre>
+  <pre><code>* A
+    + B
+      - C
+        * D</code></pre>
     
 * A
   + B
