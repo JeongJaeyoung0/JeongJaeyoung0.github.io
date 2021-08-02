@@ -31,11 +31,11 @@ comments: true
 
 ## 2. BlockQuote
 ```
-> First blockqute.<br>
->	> Second blockqute.
+> First blockqute.
+> > Second blockqute.
 ```
-> First blockqute.<br>
->	> Second blockqute.
+> First blockqute.   
+> > Second blockqute.
 
 <br>
 
@@ -51,9 +51,9 @@ comments: true
 3. 세 번째
 ### ● 순서 X ( `*` , `+` , `-` )
   <pre><code>* A
-    + B
-      - C
-        * D</code></pre>
+  + B
+    - C
+      * D</code></pre>
     
 * A
   + B
