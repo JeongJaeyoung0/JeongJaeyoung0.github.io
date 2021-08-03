@@ -7,7 +7,7 @@ tags: markdown
 comments: true
 ---
 
-# [MD] markdown guide
+# markdown guide
 
 * * *
 
