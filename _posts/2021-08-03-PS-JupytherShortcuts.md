@@ -13,27 +13,15 @@ comments: true
 
 * Enter : 에디트 모드로 변경
 * Esc : 팝업 닫기
-
-<br>
-
 * Shift + Enter : 코드 실행
-
-<br>
-
 * a : 위에 라인 추가
 * b : 아래에 라인 추가
 * dd : 라인 제거
 * z : 되돌리기
 * ii : 실행 취소
-
-<br>
-
 * Shift + M : 라인 합치기
 * Shift + Ctrl + '-' : 라인 나누기
 * Tap : 들여쓰기
-
-<br>
-
 * Ctrl + Z : 코드 에디트 되돌리기
 * Ctrl + Y : 코드 에디트 되돌리기 취소
 * Ctrl + S : 저장
