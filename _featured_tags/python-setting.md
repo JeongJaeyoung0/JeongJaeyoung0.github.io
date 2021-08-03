@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Setting
 slug: setting
 category: python

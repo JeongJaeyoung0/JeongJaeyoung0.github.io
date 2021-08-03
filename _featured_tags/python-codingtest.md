@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Coding Test
 slug: codingtest
 category: python

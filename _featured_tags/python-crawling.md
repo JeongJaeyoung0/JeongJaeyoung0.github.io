@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Crawling
 slug: crawling
 category: python

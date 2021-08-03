@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Markdown
 slug: markdown
 category: webapp
