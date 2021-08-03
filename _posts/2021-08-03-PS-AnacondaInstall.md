@@ -17,5 +17,5 @@ comments: true
 
 3. 설치
 
-    * Install for : All Users
-    * Check : Add Anaconda3 to the system PATH environment variable
+    * Install for : `All Users`
+    * Check : `Add Anaconda3 to the system PATH environment variable`
