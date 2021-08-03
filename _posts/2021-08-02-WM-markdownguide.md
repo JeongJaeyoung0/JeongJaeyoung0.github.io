@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MD] markdown guide"
+title: "[Markdown] markdown guide"
 subtitle: "markdownguide"
 categories: webapp
 tags: markdown

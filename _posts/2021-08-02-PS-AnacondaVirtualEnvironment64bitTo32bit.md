@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "[anaconda] 가상환경 (64bit에서 32bit)"
+title: "[setting] anaconda 가상환경 (64bit에서 32bit)"
 subtitle: "AnacondaVirtualEnvironment64bitTo32bit"
 categories: python
 tags: setting
 comments: true
 ---
 
-# 64bit가 설치된 상황에서 32bit 가상환경 설정 방법
+# anaconda 64bit가 설치된 상황에서 32bit 가상환경 설정 방법
 
 * * *
 
