@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Basics
 slug: basics
 category: python
