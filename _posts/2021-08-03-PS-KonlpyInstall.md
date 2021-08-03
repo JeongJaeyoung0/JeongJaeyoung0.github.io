@@ -17,7 +17,7 @@ comments: true
 ```python
 pip install -upgrade pip
 ```
-3. [오라클 JDK 다운로드](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html, "오라클 JDK 다운로드") (운영 체재, 시스템 정류에 맞게)
+3. [오라클 JDK 다운로드](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html "오라클 JDK 다운로드") (운영 체재, 시스템 정류에 맞게)
 4. 설치
 5. window키 > 시스템 환경 변수 편집 > 환경 변수 > 시스템 변수 > 새로만들기
     * 변수 이름: `JAVA_HOME`
@@ -33,7 +33,7 @@ import platform
 print(platform.architecture())
 !python --version
 ```
-9. [jpype1 다운로드](https://www.lfd.uci.edu/~gohlke/pythonlibs/, "jpype1 다운로드")
+9. [jpype1 다운로드](https://www.lfd.uci.edu/~gohlke/pythonlibs/ "jpype1 다운로드")
     * ex) Python 3.8.5 / 64bit의 경우 JPype1-1.2.0-cp38-cp38-win32.whl
 10. 파이썬 실행되는 경로에 파일 이동
 11. 파이썬에서 아래 명령어 실행

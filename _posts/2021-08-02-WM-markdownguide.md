@@ -139,11 +139,11 @@ for i in range(10):
 
 ## 6. Link
 ```
-Link test: [Google](https://google.com, "google link")
+Link test: [Google](https://google.com "google link")
 
 Link test: <https://google.com>
 ```
-Link test: [Google](https://google.com, "google link")
+Link test: [Google](https://google.com "google link")
 
 Link test: <https://google.com>
 

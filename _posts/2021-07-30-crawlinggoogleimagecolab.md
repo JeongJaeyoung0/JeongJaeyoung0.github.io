@@ -12,12 +12,18 @@ comments: true
 ***
 
 * 수집: 이미지
-* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/5e4864036ce875e4dbad17b813fae31e036643fa/210708_crawler_google_image(colab).ipynb, "github")
+* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/5e4864036ce875e4dbad17b813fae31e036643fa/210708_crawler_google_image(colab).ipynb "github")
 
 <br>
 
-<a target="_blank" href="https://colab.research.google.com/github/JeongJaeyoung0/crawler/blob/main/210708_crawler_google_image(colab).ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>구글 코랩에서 실행하기</a>
+<table align="left">
+  <td>
+        <a target="_blank" href="https://colab.research.google.com/github/JeongJaeyoung0/crawler/blob/main/210708_crawler_google_image(colab).ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>구글 코랩에서 실행하기</a>
+  </td>
+</table>
 
+<br>
+<br>
 <br>
 
 > ## ● code

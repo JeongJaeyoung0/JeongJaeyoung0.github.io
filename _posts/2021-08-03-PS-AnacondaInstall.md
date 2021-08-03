@@ -11,7 +11,7 @@ comments: true
 
 * * *
 
-1. [아나콘다 홈페이지 접속](https://www.anaconda.com/products/individual, "아나콘다 인스톨")
+1. [아나콘다 홈페이지 접속](https://www.anaconda.com/products/individual "아나콘다 인스톨")
 
 2. 화면 최하단 인스톨 클릭 (운영 체재, 시스템 정류에 맞게)
 
