@@ -7,12 +7,23 @@ tags: crawling
 comments: true
 ---
 
+# 코랩에서 구글 이미지 크롤링
+
+***
+
+* 수집: 이미지
+* 코딩: [github](https://github.com/JeongJaeyoung0/crawler/blob/f75c8d0a92c01c0a1813da4eb8e38555f4e82652/210708_crawler_google_image(colab).ipynb, "github")
+
+<br>
+
 <table align="left">
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/JeongJaeyoung0/crawler/blob/main/210708_crawler_google_image(colab).ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />구글 코랩에서 실행하기</a>
+    <a target="_blank" href="https://colab.research.google.com/github/JeongJaeyoung0/crawler/blob/main/210708_crawler_google_image(colab).ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>구글 코랩에서 실행하기</a>
   </td>
 </table>
 
+***
+## ● 코드
 
 ```python
 from google.colab import drive

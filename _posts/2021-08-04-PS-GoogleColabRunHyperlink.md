@@ -24,8 +24,8 @@ comments: true
 
 1. 하이퍼링크 적용할 곳에 아래 코드 입력
 2. &lt;&lt;&lt; &gt;&gt;&gt; 위치에 깃허브에 업로드한 파일의 주소 중 https://github.com를 제외한 주소 입력
-    * 예) 깃허브 주소 : https://github.com/a/b/test.ipynb
-    * 입력) href="https://colab.research.google.com/github/a/b/test.ipynb"
+    * 예) 깃허브 주소 : https://github.com/`a/b/test.ipynb`
+    * 입력) href="https://colab.research.google.com/github/`a/b/test.ipynb`"
 
 ```
 <table align="left">
