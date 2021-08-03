@@ -12,7 +12,7 @@ comments: true
 ***
 
 * 수집: 이미지
-* 코딩: [github](https://github.com/JeongJaeyoung0/crawler/blob/f75c8d0a92c01c0a1813da4eb8e38555f4e82652/210708_crawler_google_image(colab).ipynb, "github")
+* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/5e4864036ce875e4dbad17b813fae31e036643fa/210708_crawler_google_image(colab).ipynb, "github")
 
 <br>
 
