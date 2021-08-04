@@ -1,3 +1,22 @@
+---
+layout: post
+title: "[Wordcloud] Naver cafe 게시판 글 목록"
+subtitle: "NaverCafe"
+categories: python
+tags: textanalysis
+comments: true
+---
+
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/textanalysis/wordcloud_navercafe.png?raw=true)
+
+* 코딩: [github](https://github.com/JeongJaeyoung0/text_analysis/blob/97d1418978beea10307fb4121e9448c163ea544b/wordcloud_naver_cafe_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EA%B8%80_%EB%AA%A9%EB%A1%9D.ipynb "github")
+
+<br>
+
+# ● code
+
+***
+
 # wordcloud_naver_cafe_게시글_목록
 step 1. 글 작성 상위 20 작성자 pie chart
 step 2. 글 제목 wordcloud
@@ -354,7 +373,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/textanalysis/output_13_0.png?raw=true)
     
 
 
@@ -1774,7 +1793,7 @@ plt.imshow(mask)
 
 
     
-![png](output_23_1.png)
+![png](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/textanalysis/output_23_1.png?raw=true)
     
 
 
@@ -1800,7 +1819,7 @@ plt.imshow(wc)
 
 
     
-![png](output_24_1.png)
+![png](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/textanalysis/output_24_1.png?raw=true)
     
 
 

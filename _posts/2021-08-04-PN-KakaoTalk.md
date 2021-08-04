@@ -7,6 +7,8 @@ tags: textanalysis
 comments: true
 ---
 
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/textanalysis/wordcloud_kakaotalk.png?raw=true)
+
 * 코딩: [github](https://github.com/JeongJaeyoung0/text_analysis/blob/97d1418978beea10307fb4121e9448c163ea544b/wordcloud_kakao_talk.ipynb "github")
 
 <br>
