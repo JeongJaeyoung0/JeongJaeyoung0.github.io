@@ -11,7 +11,7 @@ comments: true
 2012.06.20 ~ 2012.07.23<br>
 Pro/Engineer<br>
 
-![Alt text](..\assets\img\cad\양문형_냉장고_(1).JPG)
-![Alt text](..\assets\img\cad\양문형_냉장고_(2).JPG)
-![Alt text](..\assets\img\cad\양문형_냉장고_(3).JPG)
-![Alt text](..\assets\img\cad\양문형_냉장고_(4).JPG)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%96%91%EB%AC%B8%ED%98%95_%EB%83%89%EC%9E%A5%EA%B3%A0_(1).JPG?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%96%91%EB%AC%B8%ED%98%95_%EB%83%89%EC%9E%A5%EA%B3%A0_(2).JPG?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%96%91%EB%AC%B8%ED%98%95_%EB%83%89%EC%9E%A5%EA%B3%A0_(3).JPG?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%96%91%EB%AC%B8%ED%98%95_%EB%83%89%EC%9E%A5%EA%B3%A0_(4).JPG?raw=true)

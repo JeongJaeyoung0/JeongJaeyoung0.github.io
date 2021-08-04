@@ -10,10 +10,10 @@ comments: true
 ## [3D Modeling] 편심 왕복 장치
 Inventor<br>
 
-![Alt text](..\assets\img\cad\편심왕복장치_(1).JPG)
-![Alt text](..\assets\img\cad\편심왕복장치_(2).JPG)
-![Alt text](..\assets\img\cad\편심왕복장치_(3).JPG)
-![Alt text](..\assets\img\cad\편심왕복장치_(4).JPG)
-![Alt text](..\assets\img\cad\편심왕복장치_(5).JPG)
-![Alt text](..\assets\img\cad\편심왕복장치_(6).JPG)
-![Alt text](..\assets\img\cad\편심왕복장치_(7).JPG)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(1).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(2).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(3).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(4).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(5).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(6).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%ED%8E%B8%EC%8B%AC%EC%99%95%EB%B3%B5%EC%9E%A5%EC%B9%98_(7).JPG?raw=true)

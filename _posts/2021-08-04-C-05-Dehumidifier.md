@@ -12,5 +12,5 @@ comments: true
 2013.01.29 ~ 2013.03.06<br>
 Pro/Enginner<br>
 
-![Alt text](..\assets\img\cad\제습기_(1).JPG)
-![Alt text](..\assets\img\cad\제습기_(2).JPG)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%A0%9C%EC%8A%B5%EA%B8%B0_(1).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%A0%9C%EC%8A%B5%EA%B8%B0_(2).JPG?raw=true)

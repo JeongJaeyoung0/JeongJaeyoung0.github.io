@@ -12,5 +12,5 @@ comments: true
 2013.05.21 ~ 2013.06.09<br>
 Pro/Enginner<br>
 
-![Alt text](..\assets\img\cad\세탁기_수위센서_(1).JPG)
-![Alt text](..\assets\img\cad\세탁기_수위센서_(2).JPG)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%84%B8%ED%83%81%EA%B8%B0_%EC%88%98%EC%9C%84%EC%84%BC%EC%84%9C_(1).JPG?raw=true)
+![Alt text](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/cad/%EC%84%B8%ED%83%81%EA%B8%B0_%EC%88%98%EC%9C%84%EC%84%BC%EC%84%9C_(2).JPG?raw=true)
