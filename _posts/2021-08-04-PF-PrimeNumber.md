@@ -2,8 +2,8 @@
 layout: post
 title: "[Function] 소수 판별"
 subtitle: "PrimeNumber"
-categories: function
-tags: crawling
+categories: python
+tags: function
 comments: true
 ---
 
