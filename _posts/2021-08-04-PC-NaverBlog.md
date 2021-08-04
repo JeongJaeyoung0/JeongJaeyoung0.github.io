@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "[Crawling] Naver blog (jupyter)"
+title: "[Crawling] Naver blog"
 subtitle: "NaverBlog"
 categories: python
 tags: crawling
 comments: true
 ---
 
-# [Crawling] Naver blog (jupyter)
-
-***
-
 * 수집: 제목, 닉네임, 날짜, 내용
-* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/9ccb7a774b88d62f2eaf393fe9937ca7113df7dd/crawling_naver%20blog.ipynb "github")
+* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/ba1db52a0de650f1d041c47ca24ab713630de9b1/crawling_naver_blog.ipynb "github")
 
 <br>
 
@@ -20,8 +16,7 @@ comments: true
 
 ***
 
-2021.08.04
-# crawling_naver blog
+# crawling_naver_blog
 Step 1. 네이버 > 검색어 입력 > VIEW >  블로그 > 옵션 > 기간 > url 수집 > 저장 (naver_blog_url.xlsx)
 Step 2. naver_blog_url.xlsx 불러오기 > 제목, 닉네임, 날짜, 제목 크롤링 > 저장 (naver_blog_content.xlsx)
 

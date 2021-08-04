@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "[Crawling] Naver news (jupyter)"
+title: "[Crawling] Naver news"
 subtitle: "NaverBlog"
 categories: python
 tags: crawling
 comments: true
 ---
 
-# [Crawling] Naver news (jupyter)
-
-***
-
 * 수집: 제목, 닉네임, 날짜, 내용
-* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/9ccb7a774b88d62f2eaf393fe9937ca7113df7dd/crawling_naver%20news.ipynb "github")
+* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/ba1db52a0de650f1d041c47ca24ab713630de9b1/crawling_naver_news.ipynb "github")
 
 <br>
 
@@ -20,8 +16,7 @@ comments: true
 
 ***
 
-2021.08.04
-# crawling_naver news
+# crawling_naver_news
 Step 1. 네이버 > 검색어 입력 > 뉴스> 네이버뉴스 url 수집 > 저장 (naver_news_url.xlsx)
 Step 2. naver_news_url.xlsx 불러오기 > 제목, 날짜, 댓글, 좋아요 크롤링 > 저장 (naver_news_keyword.xlsx)
 

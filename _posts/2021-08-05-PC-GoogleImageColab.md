@@ -1,18 +1,14 @@
 ---
 layout: post
 title: "[Crawling] Google image(colab)"
-subtitle: "colabgoogleimage"
+subtitle: "GoogleImageColab"
 categories: python
 tags: crawling
 comments: true
 ---
 
-# 코랩에서 구글 이미지 크롤링
-
-***
-
 * 수집: 이미지
-* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/5e4864036ce875e4dbad17b813fae31e036643fa/210708_crawler_google_image(colab).ipynb "github")
+* 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/b4922bb10ff6f696413e300895f83a50524001bb/crawling_google_image(colab).ipynb "github")
 
 <br>
 
@@ -39,7 +35,7 @@ drive.mount('/content/drive')
     Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
     
 
-# crawler_google image(colab)
+# crawling_google image(colab)
 
 ### step 0. 준비
 
