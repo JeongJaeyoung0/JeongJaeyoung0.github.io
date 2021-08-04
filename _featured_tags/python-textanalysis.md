@@ -1,8 +1,8 @@
 ---
 layout: list
-title: Coding Test
-slug: codingtest
+title: Text Analysis
+slug: textanalysis
 category: python
 menu: false
-order: 7
+order: 5
 ---
