@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: Crawling
 slug: crawling
 category: python
