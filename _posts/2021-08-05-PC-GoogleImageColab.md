@@ -5,7 +5,7 @@ subtitle: "GoogleImageColab"
 categories: python
 tags: crawling
 comments: true
----
+--- 
 
 * 수집: 이미지
 * 코딩: [github](https://github.com/JeongJaeyoung0/crawling/blob/b4922bb10ff6f696413e300895f83a50524001bb/crawling_google_image(colab).ipynb "github")
