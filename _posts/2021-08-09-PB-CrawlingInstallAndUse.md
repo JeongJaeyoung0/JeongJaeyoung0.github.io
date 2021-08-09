@@ -3,11 +3,12 @@ layout: post
 title: "[Crawling] Crawling 관련 설치 및 사용법"
 subtitle: "CrawlingInstallAndUse"
 categories: python
-tags: basic
+tags: basics
 comments: true
 ---
 
 * Selenium 설치 (cmd)
+
 ```python
 pip install selenium
 pip install regex               # 제거
@@ -17,6 +18,7 @@ pip install tqdm
 <br>
 
 * Library import
+
 ```python
 import sys						# 시스템
 import os						# 시스템
@@ -35,12 +37,14 @@ import re						# 해시태그(#) 제거
 <br>
 
 * Chrome driver 경로 지정 경로 (r"경로")
+
 ```python
 driver = webdriver.Chrome(r"G:\내 드라이브\exe\chromedriver.exe")
 ```
 <br>
 
 * Elements 입력 방법
+
 ```python
 element = driver.find_element_by_css_selector("#id")
 element = driver.find_element_by_css_selector(".class")
