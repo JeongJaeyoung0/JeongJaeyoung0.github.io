@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Crawling] Crawling 관련 설치 및 사용법"
+title: "[Crawling] Crawling install 및 사용법"
 subtitle: "CrawlingInstallAndUse"
 categories: python
 tags: basics
