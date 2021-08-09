@@ -16,3 +16,5 @@ comments: true
 아직 나의 Nikon FM black body와 그녀의 Nikon FM silver body는 소장중이다.
 
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/hobby/filmcamera.JPG?raw=true)
+
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/hobby/me.jpg?raw=true)
