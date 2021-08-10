@@ -6,7 +6,7 @@ categories: python
 tags: codingtest
 comments: true
 --- 
-
+test
 ``` python
 >>> print(*['A','B']) # 프린트 할 때, 리스트 앞에 * 입력시 리스트가 풀려서 출력됨
 
