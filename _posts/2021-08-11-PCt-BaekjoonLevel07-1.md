@@ -7,19 +7,15 @@ tags: codingtest
 comments: true
 ---
 
-* 아스키 코드
-
-    · `ord()`: 문자를 아스키 코드로 변환
-
+* 아스키 코드<br>
+    · `ord()`: 문자를 아스키 코드로 변환<br>
     · `chr()`: 아스키 코드 값을 문자로 변환
 
 ```python
 >>> ord('a')
-
     Out: 97
 
 >>> chr(97)
-
     Out: 'a'
 ```
 

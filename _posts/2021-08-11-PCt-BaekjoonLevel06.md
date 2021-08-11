@@ -32,7 +32,6 @@ for n in range(10001):
     a.add(n+i)
 for i in sorted(list(b-a)):print(i)
 ```
-
     1
     3
     5

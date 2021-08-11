@@ -11,11 +11,9 @@ comments: true
 
 ```python
 >>> all([1,1,1,])
-
      Out: True
 
 >>> all[(1,0,1])
-
      Out: False
 ```
 

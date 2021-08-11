@@ -12,7 +12,6 @@ comments: true
 ```python
 >>> import math
 >>> math.factorial(5)
-
     Out: 120   # 1*2*3*4*5
 ```
 
@@ -21,7 +20,6 @@ comments: true
 ```python
 >>> import math
 >>> math.log(27,3)
-
     Out: 3.0   # n^3=27
 ```
 

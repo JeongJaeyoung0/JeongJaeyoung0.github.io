@@ -9,11 +9,9 @@ comments: true
 
 ``` python
 >>> print(*['A','B']) # 프린트 할 때, 리스트 앞에 * 입력시 리스트가 풀려서 출력됨
-
     Out: A B
 
 >>> print(+[3>2]) # 프린트 할 때, + 입력시 불리언 값을 0, 1로 출력됨 (False: 0, True: 1)
-
     Out: 1
 ```
 

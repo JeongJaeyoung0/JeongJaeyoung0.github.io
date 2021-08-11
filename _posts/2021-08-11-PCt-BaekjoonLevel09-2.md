@@ -19,7 +19,6 @@ comments: true
 ```python
 >>> a=10; b=0
 >>> a^b
-
     Out: 10
 ```
 

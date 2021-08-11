@@ -7,24 +7,19 @@ tags: codingtest
 comments: true
 ---
 
-* 정렬
-
-    · `[ ].sort()` : 본문을 정렬해서 변환
-
+* 정렬<br>
+    · `[ ].sort()` : 본문을 정렬해서 변환<br>
     · `sorted([ ])` : 새로운 리스트를 반환
 
 ```python
 >>> a='132423'
 >>> b=sorted(a)                 # 오름차순
-
     Out: ['1', '2', '2', '3', '3', '4'] 
 
 >>> b=sorted(a, reverse=True)   # 내림차순
-
     Out: ['4', '3', '3', '2', '2', '1']
 
 >>> b=sorted(a,key=a.find)      # 본문 순서 그대로 정렬
-
     Out: ['1', '3', '3', '2', '2', '4']
 ```
 

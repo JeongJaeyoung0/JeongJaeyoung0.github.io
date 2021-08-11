@@ -19,7 +19,6 @@ comments: true
 
 ```python
 >>> eval('1+2')
-
     Out: 3
 ```
 
@@ -27,13 +26,11 @@ comments: true
 
 ```python
 >>> a=1; exec('print(2*a)')
-
     Out: 2
 ```
 
 ```python
 >>> a=1; exec('print(f "2*{a}") ; a+=1 ;'*4)     # 프린트문 안에서 변수값이 바뀔경우 문자열 앞에 f를 입력
-
     Out: 2*1 2*2 2*3 2*4
 ```
 

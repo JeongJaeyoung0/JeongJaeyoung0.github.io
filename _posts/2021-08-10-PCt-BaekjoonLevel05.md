@@ -10,15 +10,12 @@ comments: true
 ```python
 >>> a, *b, c= [1,2,3,4,5]   # *를 붙이면 남는 리스트들 전부
 >>> print(a)
-
     Out: 1
 
 >>> print(b)
-
     Out: [2,3,4]
 
 >>> print(b)
-
     Out: 5
 ```
 

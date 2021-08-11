@@ -13,7 +13,6 @@ comments: true
 >>> a=5; b=0
 >>> while(a:= a-1) : b+=1
 >>> print(b)
-
     Out: 4
 ```
 
