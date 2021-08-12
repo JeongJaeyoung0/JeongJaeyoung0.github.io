@@ -13,7 +13,6 @@ comments: true
     * Organize, Train, Deploy 가능
 
 <br>
-
 2. [Make sense](https://www.makesense.ai/)
     * 로그인 불필요
     * Rectengle, Point, Line, Polygon 가능
