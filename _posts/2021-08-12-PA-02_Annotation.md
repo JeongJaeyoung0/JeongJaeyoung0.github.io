@@ -11,8 +11,8 @@ comments: true
     * 로그인 필요 (깃허브 가능)
     * Rectengle만 가능
     * Organize, Train, Deploy 가능
-
 <br>
+
 2. [Make sense](https://www.makesense.ai/)
     * 로그인 불필요
     * Rectengle, Point, Line, Polygon 가능
