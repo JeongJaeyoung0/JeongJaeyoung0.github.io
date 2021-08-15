@@ -3,7 +3,7 @@ layout: post
 title: "[Crawling] Crawling install 및 사용법"
 subtitle: "CrawlingInstallAndUse"
 categories: python
-tags: basics
+tags: crawling
 comments: true
 ---
 
@@ -56,8 +56,9 @@ element = driver.find_element_by_id(id)
 <br>
 
 * 함수
+
 ```python
-# 검색 크릭
+# 검색 클릭
 A.submit()
 
 # 버튼 클릭
