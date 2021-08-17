@@ -32,7 +32,7 @@ git clone https://github.com/hunglc007/tensorflow-yolov4-tflite
 ```
 <br>4. [링크](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) 클릭하여 다크넷에서 제공하는 yolov4.weights 다운로드
 <br>
-<br>5. 4번에서 다운 받은 yolov4.weights 파일을 tensorflow-yolov4-tflite-master\data에 이동
+<br>5. 4번에서 다운 받은 yolov4.weights 파일을 tensorflow-yolov4-tflite/data에 이동
 <br>
 <br>6. core/utils.py 파일 중 152, 159, 161번 줄 수정
 
