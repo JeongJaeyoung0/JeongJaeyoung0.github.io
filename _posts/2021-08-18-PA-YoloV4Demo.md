@@ -7,9 +7,15 @@ tags: ai
 comments: true
 ---
 
+![image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/ai/kite.png?raw=true)
+
+* 목적: image bounding box, label, confidence
+
 * 환경
     * Ubuntu 18.04
     * Tensorflow 2.3.0rc0
+
+<br>
 
 ### 1. 가상환경 설정
 ```python
@@ -22,9 +28,9 @@ conda activate yolov4
 git clone https://github.com/JeongJaeyoung0/tensorflow-yolov4-tflite.git
 ```
 
-### 3. tensorflow-yolov4-tflite-master 폴더로 디렉토리 변경
+### 3. tensorflow-yolov4-tflite 폴더로 디렉토리 변경
 ```python
-cd tensorflow-yolov4-tflite-master
+cd tensorflow-yolov4-tflite
 ```
 
 ### 4. 패키지 설치 (gpu, cpu 둘중 하나 설치)
@@ -59,7 +65,6 @@ python detect.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --
 ```
 결과물: 현재 디렉토리에 result.png<br>
 다른 사진: kite.jpg를 변경
-![image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/ai/kite.png?raw=true)
 
  * `Lite` 버전
 ```python
