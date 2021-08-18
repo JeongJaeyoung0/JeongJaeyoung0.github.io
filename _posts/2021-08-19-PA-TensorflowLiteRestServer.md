@@ -37,7 +37,7 @@ cd tensorflow-lite-rest-server
 pip install https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-cp37m-linux_x86_64.whl
 pip install -r requirements.txt
 ```
-※ os가 다르거나, python 버전이 다르면 [링크](https://www.tensorflow.org/lite/guide/python?hl=ko) 필요한 URL로 install 할 것.
+※ os가 다르거나, python 버전이 다르면 [링크](https://www.tensorflow.org/lite/guide/python?hl=ko)에서 필요한 URL로 install 할 것.
 
 <br>
 
