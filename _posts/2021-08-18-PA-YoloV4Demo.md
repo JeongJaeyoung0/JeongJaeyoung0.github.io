@@ -36,13 +36,10 @@ pip install -r requirements-gpu.txt
 ```python
 pip install -r requirements.txt
 ```
+
 ### 5. [링크](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) 클릭하여 다크넷에서 제공하는 데모 yolov4.weights 다운로드
 
-<br>
-
 ### 6. 4번에서 다운 받은 yolov4.weights 파일을 tensorflow-yolov4-tflite/data에 이동
-
-<br>
 
 ### 7. darknet가중치 파일을 tensorflow 버전으로 변환
  * `일반` 버전
