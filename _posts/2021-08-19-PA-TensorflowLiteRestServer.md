@@ -6,7 +6,7 @@ categories: python
 tags: ai
 comments: true
 ---
-
+ 
 * 목적: image 입력 → rest server → tflite → return
 
 * 환경
