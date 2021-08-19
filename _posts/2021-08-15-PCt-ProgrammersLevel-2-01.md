@@ -256,8 +256,3 @@ queue.append((s+numbers[l-1], l+1))
 ```python
 queue.append((s-numbers[l-1], l+1))
 ```
-
-
-```python
-
-```
