@@ -9,8 +9,9 @@ comments: true
 
 ![image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/ai/kite.png?raw=true)
 
-* 목적: image bounding box, label, confidence, convert to pb, h5
-
+* 목적
+    * image bounding box, label, confidence
+    * convert to pb, h5
 * 환경
     * Ubuntu 18.04
     * Tensorflow 2.1.0
