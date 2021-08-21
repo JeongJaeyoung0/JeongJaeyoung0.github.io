@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[AI] 비전 - Yolo V4 데모, pb, h5"
+title: "[AI] 비전 - Yolo v4 데모, pb, h5"
 subtitle: "YoloV4Demo"
 categories: python
 tags: ai
@@ -23,7 +23,7 @@ conda create -n yolov4 pip python=3.7
 conda activate yolov4
 ```
 
-### 2. yolov4 clone
+### 2. yolov4 다운로드
 ```python
 git clone https://github.com/JeongJaeyoung0/tensorflow-yolov4
 ```
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 python detect.py --weights ./data/yolov4.weights --framework tf --size 608 --image ./data/kite.jpg --output result.png
 ```
 
-### 8. Convert
+### 8. 변환
 ```python
 # .weights to .pb (tensorflow)
 python convert.py --weights ./data/yolov4.weights --output ./data/yolov4-pb
