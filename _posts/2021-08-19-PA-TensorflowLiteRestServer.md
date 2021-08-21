@@ -7,8 +7,8 @@ tags: ai
 comments: true
 ---
  
-* 목적: image 입력 → rest server → tflite → return
-
+* 목적
+    * image 입력 → rest server → tflite → return
 * 환경
     * Ubuntu 18.04
     * python 3.7
@@ -21,7 +21,7 @@ conda create -n rest pip python=3.7
 conda activate rest
 ```
 
-### 2. tensorflow-lite-rest-server clone
+### 2. tensorflow-lite-rest-server 다운로드
 ```python
 git clone https://github.com/robmarkcole/tensorflow-lite-rest-server.git
 ```
@@ -65,7 +65,3 @@ curl -X POST "http://localhost:5000/v1/vision/detection" -H  "accept: applicatio
         }],
 "success":true}
 ```
-
-<br>
-
-환경에 따라 에러가 다소 발생하지만, 에러 내용을 구글링 하면 쉽게 해결 가능하다.
