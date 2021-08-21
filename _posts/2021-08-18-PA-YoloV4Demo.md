@@ -7,13 +7,13 @@ tags: ai
 comments: true
 ---
 
-![image]()
+![image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/ai/kite.png?raw=true)
 
 * 목적: image bounding box, label, confidence, convert to pb, h5
 
 * 환경
     * Ubuntu 18.04
-    * Tensorflow 2.3.0rc0
+    * Tensorflow 2.1.0
 
 <br>
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 5. [링크](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) 클릭하여 다크넷에서 제공하는 데모 yolov4.weights 다운로드
 
-### 6. 4번에서 다운 받은 yolov4.weights를 tensorflow-yolov4/data로 이동
+### 6. 5번에서 다운 받은 yolov4.weights를 tensorflow-yolov4/data로 이동
 
 ### 7. 데모
 ```python
