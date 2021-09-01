@@ -27,7 +27,7 @@ cd darknet
 ```
 
 ### 3. 아래 폴더 트리와같이 custom 폴더 및 파일 생성
-```python
+```
 darknet
 └──custom
     ├── custom.data
@@ -55,7 +55,6 @@ darknet
 
 * 학습할 image(jpg, png, 등), annotation(txt) 파일을 custom/images/train, valid에 복사
     - annotation txt 파일은 [링크](https://jeongjaeyoung0.github.io/python/2021/08/12/PA-02_Annotation/) 참조하여 생성
-<br>
 <br>
 * custom_images_dir.py
     - custom_train.txt 생성
