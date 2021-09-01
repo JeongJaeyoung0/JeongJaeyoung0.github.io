@@ -7,6 +7,7 @@ tags: ai
 comments: true
 ---
 
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/ai/Sign.png?raw=true)
 
 * 목적
     * custom 학습하기 (결과물: .weights)
@@ -161,4 +162,4 @@ darknet
 ./darknet detector train custom/custom.data custom/yolov4.cfg yolov4.conv.137
 ```
 
-### 7. 학습된 모델은 backup에 생성됨
+### 7. 학습된 모델은 backup에 생성됨 (final, last, 1000, 2000 등.. 이름으로 중간중간 저장됨)
