@@ -56,7 +56,7 @@ darknet
 * 학습할 image(jpg, png, 등), annotation(txt) 파일을 custom/images/train, valid에 복사
     - annotation txt 파일은 [링크](https://jeongjaeyoung0.github.io/python/2021/08/12/PA-02_Annotation/) 참조하여 생성
 <br>
-* custom_images_dir.py
+* `custom_images_dir.py`
     - custom_train.txt 생성
     - custom_valid.txt 생성
     - 경로, 이미지 확장자 등 수정할것 (가급적 전체경로 입력하는 것을 추천)
@@ -96,7 +96,7 @@ darknet
             print(file)
         ```
 
-* custom.data
+* `custom.data`
     - classes: 분류할 클래스 개수
     - train: 학습할 이미지의 경로가 적힌 txt파일의 경로
     - valid: 검증할 이미지의 경로가 적힌 txt파일의 경로
@@ -110,7 +110,7 @@ darknet
         backup = backup/
         ```
 
-* custom.names
+* `custom.names`
     - 검출하고자 하는 목록 (Annotation txt 파일의 클래스 순서대로 입력)
     - 예)
         ```python
@@ -118,7 +118,7 @@ darknet
         UturnSign
         ```
 
-* yolov4.cfg
+* `yolov4.cfg`
     - darknet/cfg/yolov4.cfg를 복사
     - batch: 배치값
     - subdivisions: 배치값을 얼마로 분할하여 학습할건지 (out of memory 발생시 값을 적절히 올릴것)
@@ -134,7 +134,7 @@ darknet
     - 기타 다른 변수는 [링크](https://eehoeskrap.tistory.com/370) 참조
 
 ### 4. yolov4.conv.137 다운로드
-* [링크](https://github.com/AlexeyAB/darknet#:~:text=cfg%20(162%20MB)%3A-,yolov4.conv.137,-(Google%20drive%20mirror))
+* [링크](https://github.com/AlexeyAB/darknet#:~:text=cfg%20(162%20MB)%3A-,yolov4.conv.137,-(Google%20drive%20mirror)) 클릭하여 다운로드
 * 다운로드 후 darknet 폴더로 이동
 
 ### 5. Makefile
