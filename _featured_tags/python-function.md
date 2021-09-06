@@ -4,5 +4,5 @@ title: Function
 slug: function
 category: python
 menu: false
-order: 6
+order: 7
 ---

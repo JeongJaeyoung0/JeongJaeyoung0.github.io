@@ -9,11 +9,7 @@ comments: true
 
 * 2부터 n까지 소수 리스트 반환하는 함수
 
-<br>
-
-# ● code
-
-***
+* * *
 
 ```python
 def prime_number(n): # 소수(2부터 n까지 소수 리스트 반환)
