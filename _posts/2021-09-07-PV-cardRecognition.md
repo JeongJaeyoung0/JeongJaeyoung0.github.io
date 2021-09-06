@@ -9,6 +9,12 @@ comments: true
 
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition.png?raw=true)
 
+* 환경
+    * OpenCV 4.5.0
+    * python 3.8
+
+* * *
+
 * step1. edge detection
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition_step1-2.png?raw=true)
 
