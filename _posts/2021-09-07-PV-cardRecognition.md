@@ -114,7 +114,7 @@ def auto_scan_image(dir):
     print("step4. apply adaptive threshold")
     cv2.imshow("Original", orig)
     cv2.imshow("Scanned", warped)
-    cv2.imwrite("scannedImage.png", warped)
+    cv2.imwrite("resultCardRecognition.png", warped)
     cv2.waitKey()
     cv2.destroyAllWindows()
 
