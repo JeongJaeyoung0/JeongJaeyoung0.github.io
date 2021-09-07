@@ -26,7 +26,7 @@ comments: true
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step3.png?raw=true)
 <br>
 * step4. insert the step3 image and barcode text into the original image<br>
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step1.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultBarcodeRecognition.png?raw=true)
 
 * * *
 
