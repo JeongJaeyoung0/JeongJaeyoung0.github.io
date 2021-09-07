@@ -7,7 +7,7 @@ tags: vision
 comments: true
 ---
 
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultBarcodeRecognition.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition.png?raw=true)
 
 * 환경
     * OpenCV 4.5.0
