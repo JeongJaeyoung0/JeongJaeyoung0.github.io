@@ -165,8 +165,11 @@ comments: true
         sudo docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
         ```
 <br>
+
 * * *
+
 <br>
+
 1. GPU 드라이버, cuda, cudnn 삭제
     * [참고](https://driz2le.tistory.com/254)
 
