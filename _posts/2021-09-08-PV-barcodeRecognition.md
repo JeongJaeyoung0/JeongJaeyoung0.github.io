@@ -11,22 +11,22 @@ comments: true
 
 * 환경
     * OpenCV 4.5.0
+    * pyzbar 0.1.8
     * python 3.8
-    * 
 
 * * *
 
-* step1. edge detection
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition_step1-2.png?raw=true)
-
-* step2. find contours of paper
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition_step2.png?raw=true)
-
-* step3. apply perspective Transform
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition_step3.png?raw=true)
-
-* step4. apply adaptive threshold
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition_step4.png?raw=true)
+* step1. edge detection<br>
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step1.png?raw=true)
+<br>
+* step2. find contours of paper<br>
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step2.png?raw=true)
+<br>
+* step3. apply perspective Transform<br>
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step3.png?raw=true)
+<br>
+* step4. insert the step3 image and barcode text into the original image<br>
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step1.png?raw=true)
 
 * * *
 
@@ -98,7 +98,7 @@ def auto_scan_image(dir):
         
         warped = cv2.warpPerspective(orig, M, (maxWidth, maxHeight)) # M을 warpPerspective()에 넣음으로써 최종적으로 반듯한 사각형으로 변환된 이미지를 받음
         
-        # 원본 이미지에 붙여넣기
+        # step4. insert the step3 image and barcode text into the original image
         xCoor = [x[0][0] for x in screenCnt] # 꼭지점의 x 좌표 리스트
         yCoor = [y[0][1] for y in screenCnt] # 꼭지점 y 좌표 리스트
         xMin = int(min(xCoor)/rHight) # x 최소값
