@@ -14,6 +14,8 @@ comments: true
     * python 3.8
 
 * * *
+* step0. original image
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/card.png?raw=true)
 
 * step1. edge detection
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition_step1-2.png?raw=true)

@@ -15,7 +15,9 @@ comments: true
     * python 3.8
 
 * * *
-
+* step0. original image<br>
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcode.jpg?raw=true)
+<br>
 * step1. edge detection<br>
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step1.png?raw=true)
 <br>
