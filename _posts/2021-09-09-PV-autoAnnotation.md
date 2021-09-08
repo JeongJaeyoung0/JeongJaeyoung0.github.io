@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Vision] OpenCV - 윤곽선 검출 "
+title: "[Vision] OpenCV - 윤곽선 검출"
 subtitle: "autoAnnotation"
 categories: python
 tags: vision
@@ -15,22 +15,22 @@ comments: true
 
 의도한 형태의 검출은 아니지만, 변수를 조정하면 좀더 정밀한 검출이 가능 할 듯 하다. 현재는 이미지의 전체 윤곽도 검출되지만, 좀더 개선해 보려 한다.
 * * *
-* step0. 원본(original image)<br>
+* step0. 원본(original image)
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/annotation.jpg?raw=true)
-<br>
-* step1. 흐림 효과(Blur)<br>
+
+* step1. 흐림 효과(Blur)
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/annotationRecognition_step1.png?raw=true)
-<br>
-* step2. 역상(Reverse Image)<br>
+
+* step2. 역상(Reverse Image)
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/annotationRecognition_step2.png?raw=true)
-<br>
-* step3. 그레이 스케일(Gray Scale)<br>
+
+* step3. 그레이 스케일(Gray Scale)
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/annotationRecognition_step3.png?raw=true)
-<br>
-* step4. 이진화(Binary)<br>
+
+* step4. 이진화(Binary)
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/annotationRecognition_step4.png?raw=true)
-<br>
-* step5. 윤곽선(Contour)<br>
+
+* step5. 윤곽선(Contour)
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultAutoAnnotation.png?raw=true)
 
 * * *
