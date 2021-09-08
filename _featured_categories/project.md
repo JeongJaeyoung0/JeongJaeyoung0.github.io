@@ -1,8 +1,8 @@
 ---
-layout: list
+layout: tag-blog
 title: Project
 slug: project
-menu: false
+menu: true
 submenu: false
 order: 1
 description: >
