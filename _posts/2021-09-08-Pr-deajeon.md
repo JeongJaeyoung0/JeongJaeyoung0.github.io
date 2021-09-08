@@ -8,6 +8,7 @@ comments: true
 ---
 
 ![heatMap](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/project/deajeon_heatMap.png?raw=true)
+
 * 개요
     * 공모전명: 2021 빅데이터 분석 및 아이디어 공모전
     * 주최: 대전정보문화산업진흥원
@@ -60,4 +61,4 @@ comments: true
 * 친환경적인 에너지 생태계 구축
 * 대전시 예산 절감 효과
 * 선정된 건축물 전체에 태양관 발전기를 설치 할 경우 아래 이미지와 같은 순수익 기대
-![conclusion](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/project/deajeon_conclusion.png?raw=true)
+    ![conclusion](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/project/deajeon_conclusion.png?raw=true)
