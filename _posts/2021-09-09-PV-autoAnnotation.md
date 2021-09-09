@@ -10,7 +10,7 @@ comments: true
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultAutoAnnotation.png?raw=true)
 
 * 환경
-    * OpenCV 4.5.0
+    * OpenCV 4.5.3
     * python 3.8
 
 의도한 형태의 검출은 아니지만, 변수를 조정하면 좀더 정밀한 검출이 가능 할 듯 하다. 현재는 이미지의 전체 윤곽도 검출되지만, 좀더 개선해 보려 한다.

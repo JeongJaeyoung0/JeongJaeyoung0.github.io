@@ -10,7 +10,7 @@ comments: true
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition.png?raw=true)
 
 * 환경
-    * OpenCV 4.5.0
+    * OpenCV 4.5.3
     * pyzbar 0.1.8
     * python 3.8
 

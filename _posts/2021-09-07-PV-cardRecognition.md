@@ -10,7 +10,7 @@ comments: true
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/cardRecognition.png?raw=true)
 
 * 환경
-    * OpenCV 4.5.0
+    * OpenCV 4.5.3
     * python 3.8
 
 * * *
@@ -90,10 +90,10 @@ def auto_scan_image(dir):
     rect = order_points(screenCnt.reshape(4, 2) / rHight) # contours에서 4개의 꼭지점을 4x2의 배열로 재정렬하여 rHight로 나눔
     (topLeft, topRight, bottomRight, bottomLeft) = rect
 
-    w1 = abs(bottomRight[0] - bottomLeft[0])    # 하단 폭
-    w2 = abs(topRight[0] - topLeft[0])          # 상단 폭
-    h1 = abs(topRight[1] - bottomRight[1])      # 우측 높이
-    h2 = abs(topLeft[1] - bottomLeft[1])        # 좌측 높이
+    w1 = int(abs(bottomRight[0] - bottomLeft[0]))    # 하단 폭
+    w2 = int(abs(topRight[0] - topLeft[0]))          # 상단 폭
+    h1 = int(abs(topRight[1] - bottomRight[1]))      # 우측 높이
+    h2 = int(abs(topLeft[1] - bottomLeft[1]))        # 좌측 높이
 
     maxWidth = max([w1, w2])    # 최대 폭
     maxHeight = max([h1, h2])   # 최대 높이
