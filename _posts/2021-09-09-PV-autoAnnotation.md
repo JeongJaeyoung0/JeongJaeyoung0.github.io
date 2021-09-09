@@ -31,8 +31,12 @@ comments: true
 ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/annotationRecognition_step4.png?raw=true)
 
 * step5. 윤곽선(Contour)
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultAutoAnnotation.png?raw=true)
+    * Curve
+    ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultAutoAnnotationCurve.png?raw=true)
 
+    * BBox
+    ![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultAutoAnnotationBbox.png?raw=true)
+    
 * * *
 
 ```python
@@ -71,12 +75,22 @@ cv2.destroyAllWindows()
 
 # 윤곽선(Contour)
 contours, hierarchy = cv2.findContours(img_binary, cv2.RETR_LIST, cv2.CHAIN_APPROX_NONE)
-# 1번째 인수(argument)값 img_bgr는 원본 이미지를 의미.
-# 4번째 인수(argument)값 (0, 255, 0)는 R,G,B를 의미. 녹색(Green)값 255의 윤곽선
-# 5번째 인수(argument)값 2는 윤곽선의 굵기를 의미
-img_contour = cv2.drawContours(img_bgr, contours, -1, (0, 255, 0), 2)
-cv2.imwrite("resultAutoAnnotation.png", img_contour)
-cv2.imshow("img_contour", img_contour)
+
+# curve
+img_contour_curve = img_bgr.copy()
+img_contour_curve = cv2.drawContours(img_contour_curve, contours, -1, (0, 255, 0), 2)
+cv2.imwrite("resultAutoAnnotationCurve.png", img_contour_curve)
+cv2.imshow("img_contour_curve", img_contour_curve)
+cv2.waitKey()
+cv2.destroyAllWindows()
+
+# bbox
+img_contour_bbox = img_bgr.copy()
+for cnt in contours:
+    x,y,w,h = cv2.boundingRect(cnt)
+    img_contour_bbox = cv2.rectangle(img_contour_bbox,(x,y),(x+w,y+h),(0,255,0),2)
+cv2.imwrite("resultAutoAnnotationBbox.png", img_contour_bbox)
+cv2.imshow("img_contour_bbox", img_contour_bbox)
 cv2.waitKey()
 cv2.destroyAllWindows()
 ```
