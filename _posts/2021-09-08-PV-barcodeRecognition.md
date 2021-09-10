@@ -16,19 +16,20 @@ comments: true
 
 * * *
 * step0. original image<br>
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcode.jpg?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcode.png?raw=true)
 <br>
 * step1. edge detection<br>
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step1.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_setp1.png?raw=true)
 <br>
 * step2. find contours of paper<br>
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step2.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_setp2.png?raw=true)
 <br>
 * step3. apply perspective Transform<br>
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_step3.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_setp3-1.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_setp3-2.png?raw=true)
 <br>
 * step4. insert the step3 image and barcode text into the original image<br>
-![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/resultBarcodeRecognition.png?raw=true)
+![Image](https://github.com/JeongJaeyoung0/JeongJaeyoung0.github.io/blob/master/assets/img/vision/barcodeRecognition_setp4.png?raw=true)
 
 * * *
 
