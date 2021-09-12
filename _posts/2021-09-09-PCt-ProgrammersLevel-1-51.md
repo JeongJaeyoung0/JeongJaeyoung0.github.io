@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Coding test] Programmers_level 1_숫자 문자열과 영단어"
-subtitle: "ProgrammersLevel-1-50"
+subtitle: "ProgrammersLevel-1-51"
 categories: python
 tags: codingtest
 comments: true
