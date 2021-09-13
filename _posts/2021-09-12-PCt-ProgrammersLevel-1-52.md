@@ -27,6 +27,7 @@ def solution(N, stages):
 ```python
 >>> solution(5, [2, 1, 2, 6, 2, 4, 3, 3])
 [3,4,2,1,5]
+
 >>> solution(4, [4,4,4,4,4])
 [4,1,2,3]
 ```
