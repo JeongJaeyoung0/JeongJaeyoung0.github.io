@@ -7,7 +7,7 @@ tags: codingtest
 comments: true
 ---
 
-* 문제 요약 : 5개의 직업군 별로 언어 선호도가 가장 높은 직업군을 리턴 (선호도 점수가 같을 경우 직업군 사전 순으로 가장 빠른 직업굴을 리턴)
+* 문제 요약 : 승률 높은 순 > 무게가 높은 복서 이긴 횟수 많은 순 > 몸무게 무거운 순 > 복서 번호 낮은 순
 
 ```python
 def solution(weights, head2head):
