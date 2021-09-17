@@ -172,11 +172,12 @@ ABC~~DEF~~HIG
 
 예
 ```
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Image test"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="Image test"></img>
 ```
 
-<img src="https://www.lotus-qa.com/wp-content/uploads/2020/02/testing.jpg" width="300px" height="170px" title="px(픽셀) 크기 설정" alt="Image test"></img><br/>
+<img src="https://www.lotus-qa.com/wp-content/uploads/2020/02/testing.jpg" width="300px" height="170px" title="px(픽셀) 크기 설정" alt="Image test"><br/>
+
 <img src="https://www.lotus-qa.com/wp-content/uploads/2020/02/testing.jpg" width="40%" height="40%" title="%(비율) 크기 설정" alt="Image test"></img>
 
 <br>
