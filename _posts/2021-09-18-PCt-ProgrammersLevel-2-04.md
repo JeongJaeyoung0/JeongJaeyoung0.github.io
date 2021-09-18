@@ -17,7 +17,7 @@ def solution(w,h):
     elif w == h: # 가로와 세로가 같은 정사각형의 경우
         return w * h - w # 전체 개수에서 한변의 길이만큼 사용하지 못함
     else: # 직사각형일 경우
-        return sum([int(h - h / w * i) for i in range(1, w+1)]) * 2 # 좌>우 칸마다 기울기 값만큼 빼주고 정수화 하여 전체를 합하여 리턴
+        return sum([int(h - h / w * i) for i in range(1, w+1)]) * 2 # 좌 → 우 칸마다 기울기 값만큼 빼주고 정수화 하여 전체를 합하여 리턴
 ```
 
 ```python
