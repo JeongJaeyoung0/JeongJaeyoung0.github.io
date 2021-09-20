@@ -10,7 +10,7 @@ comments: true
 * 문제 요약 : n개의 음이 아닌 정수를 더하거나 빼서 타겟 넘버를 만들수 있는 경우의 수를 반환
 
 ```python
-# 재귀
+# 재귀 풀이
 def solution(numbers, target):
     if numbers == []:
         if target == 0:
@@ -23,7 +23,7 @@ def solution(numbers, target):
 
 
 ```python
-# product
+# product 풀이
 from itertools import product
 def solution(numbers, target):
     l = [(x, -x) for x in numbers]
