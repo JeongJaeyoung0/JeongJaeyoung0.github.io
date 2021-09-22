@@ -20,18 +20,18 @@ comments: true
 import heapq
 
 def solution(scoville, K):
-    heap = scoville
-    heapq.heapify(heap)
-    answer = 0
-    a = heapq.heappop(heap)
-    while a < K:
-        if len(heap) == 0:
-            return -1
-        b = heapq.heappop(heap)
-        heapq.heappush(heap, a + b * 2)
-        answer = answer + 1
-        a = heapq.heappop(heap)
-    return answer
+    heap = scoville # heap에 scoville 복제
+    heapq.heapify(heap) # 리존 리스트 힙으로 변환
+    answer = 0 # 섞는 횟수
+    a = heapq.heappop(heap) # 첫 번째 최소값 삭제 및 a에 저장
+    while a < K: # 최소값이 K 값보다 적을 경우 while문
+        if len(heap) == 0: # 최소값 삭제 후 길이가 0일경우 (k이상 불가능한 경우)
+            return -1 # -1 반환
+        b = heapq.heappop(heap) # 두 번째 최소값 삭제 및 b에 저장
+        heapq.heappush(heap, a + b * 2) # a+b*2를 힙에 추가
+        answer += 1 # 섞는 횟수 +1 
+        a = heapq.heappop(heap) # 첫 번째 최소값 삭제 및 a에 저장
+    return answer # 반환
 ```
 
 ```python
