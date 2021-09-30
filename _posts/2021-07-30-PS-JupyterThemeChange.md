@@ -13,9 +13,9 @@ comments: true
 
 1. cmd 실행
 2. juptyerthemes 설치
-```python
-pip install jupytertheme
-```
+  ```python
+  pip install jupytertheme
+  ```
 3. 테마 명령어
     * 테마 리스트
       ```python
