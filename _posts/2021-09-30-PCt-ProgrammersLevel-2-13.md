@@ -20,9 +20,9 @@ def solution(arr):
 ```
 
 ```python
-solution([2,6,8,14])
+>>> solution([2,6,8,14])
 168
 
-solution([1,2,3])
+>>> solution([1,2,3])
 6
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Coding test] Programmers_level 2_JadenCase 문자열 만들기"
-subtitle: "ProgrammersLevel-2-15"
+subtitle: "ProgrammersLevel-2-14"
 categories: python
 tags: codingtest
 comments: true
@@ -16,9 +16,9 @@ def solution(s):
 ```
 
 ```python
-solution("3people unFollowed me")
+>>> solution("3people unFollowed me")
 "3people Unfollowed Me"
 
-solution("for the last week")
+>>> solution("for the last week")
 "For The Last Week"
 ```
