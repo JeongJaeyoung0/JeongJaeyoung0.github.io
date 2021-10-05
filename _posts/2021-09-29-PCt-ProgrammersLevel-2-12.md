@@ -26,4 +26,3 @@ def solution(n):
 >>> solution(15)
 23
 ```
- 
