@@ -134,7 +134,7 @@ darknet
     - 기타 다른 변수는 [링크](https://eehoeskrap.tistory.com/370) 참조
 
 ### 4. yolov4.conv.137 다운로드
-* [링크](https://github.com/AlexeyAB/darknet#:~:text=cfg%20(162%20MB)%3A-,yolov4.conv.137,-(Google%20drive%20mirror)) 클릭하여 다운로드
+* [링크](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137) 클릭하여 다운로드
 * 다운로드 후 darknet 폴더로 이동
 
 ### 5. Makefile
