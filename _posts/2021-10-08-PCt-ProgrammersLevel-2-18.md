@@ -27,4 +27,3 @@ def solution(n):
 >>> solution(15)
 4
 ```
-test
