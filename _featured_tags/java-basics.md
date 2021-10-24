@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Basics
-slug: basics
+slug: basicsJava
 category: java
 menu: false
 order: 1

@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Basics
-slug: basics
+slug: basicsPython
 category: python
 menu: false
 order: 2
