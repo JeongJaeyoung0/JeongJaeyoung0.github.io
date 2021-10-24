@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "[기초] 자바 자료형 (변수, 상수)"
+title: "[기초] 자바 자료형 (변수, 상수, 형변환)"
 subtitle: "javaDataType"
 categories: java
 tags: basicsJava
 comments: true
 ---
 
-## 변수
-
- * 변수 : 변하는 값
+# 변수
+* 변수 : 변하는 값
 
 ### 자료형
+
 ||정수형|문자형|실수형|논리형|
 |---|---|---|---|---|
 |1바이트(-2^7 ~ 2^7-1)|byte|-|-|**boolean**|
@@ -39,8 +39,7 @@ comments: true
 
 * * *
 
-## 상수
-
+# 상수
 * 상수 : 변하지 않는 값
     ```java
     final double PI = 3.141592;
@@ -48,7 +47,7 @@ comments: true
 
 * * *
 
-## 형 변환
+# 형 변환
 * 서로 다른 자료형의 값이 대입되는 경우 형 변환이 일어 남
 
 * 묵시적 형 변환 : 작은 수 에서 큰 수로 대입되는 경우
