@@ -21,12 +21,12 @@ comments: true
 
 * 32 비트를 초과하는 숫자는 long 형으로 처리해야 함
     ```java
-    long num = 12345678900**L**;
+    long num = 12345678900L;
     ```
 
 * 실수는 기본적으로 double로 처리 함
     ```java
-    float fnum = 3.14**F**
+    float fnum = 3.14F;
     ```
 
 * 자료형 없이 변수 사용 (자바 10부터)
@@ -50,14 +50,14 @@ comments: true
 # 형 변환
 * 서로 다른 자료형의 값이 대입되는 경우 형 변환이 일어 남
 
-* 묵시적 형 변환 : 작은 수 에서 큰 수로 대입되는 경우
-    ```java
-    long lNum = 10;
-    float fNum = lNum;
-    ```
+    * 묵시적 형 변환 : 작은 수 에서 큰 수로 대입되는 경우
+        ```java
+        long lNum = 10;
+        float fNum = lNum;
+        ```
 
-* 명시적 형 변환 : 큰 수에서 작은 수로 대입되는 경우
-    ```java
-    double dNum = 3.141592;
-    int iNum = (int)dNum;
-    ```
+    * 명시적 형 변환 : 큰 수에서 작은 수로 대입되는 경우
+        ```java
+        double dNum = 3.141592;
+        int iNum = (int)dNum;
+        ```
