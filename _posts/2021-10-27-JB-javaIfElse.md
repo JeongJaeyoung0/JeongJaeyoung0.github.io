@@ -7,7 +7,7 @@ tags: basicsJava
 comments: true
 ---
 
-# 조건문
+# 조건문 
 
 * if 문
     ``` java
