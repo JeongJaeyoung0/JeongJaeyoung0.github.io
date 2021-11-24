@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_타겟 넘버"
 subtitle: "ProgrammersLevel-2-05"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

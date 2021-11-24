@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_제일 작은 수 제거하기"
 subtitle: "ProgrammersLevel-1-33"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

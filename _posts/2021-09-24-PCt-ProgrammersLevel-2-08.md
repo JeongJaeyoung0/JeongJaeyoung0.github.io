@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_짝지어 제거하기"
 subtitle: "ProgrammersLevel-2-08"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_모의고사"
 subtitle: "ProgrammersLevel-1-13"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

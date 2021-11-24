@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Baekjoon_level 1_입출력과 사칙연산"
 subtitle: "BaekjoonLevel1"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_같은 숫자는 싫어"
 subtitle: "ProgrammersLevel-1-20"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

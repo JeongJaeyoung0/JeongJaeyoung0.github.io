@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_올바른 괄호"
 subtitle: "ProgrammersLevel-2-20"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_하샤드 수"
 subtitle: "ProgrammersLevel-1-29"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

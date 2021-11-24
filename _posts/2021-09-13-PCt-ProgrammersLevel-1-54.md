@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_없는 숫자 더하기"
 subtitle: "ProgrammersLevel-1-54"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

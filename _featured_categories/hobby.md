@@ -4,7 +4,7 @@ title: Hobby
 slug: hobby
 menu: true
 submenu: false
-order: 6
+order: 8
 description: >
   My hobby
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_핸드폰 번호 가리기"
 subtitle: "ProgrammersLevel-1-28"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

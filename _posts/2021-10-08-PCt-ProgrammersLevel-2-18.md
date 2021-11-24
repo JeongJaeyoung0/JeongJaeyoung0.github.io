@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_숫자의 표현"
 subtitle: "ProgrammersLevel-2-18"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

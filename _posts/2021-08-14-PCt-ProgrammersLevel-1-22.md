@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_두 정수 사이의 합"
 subtitle: "ProgrammersLevel-1-22"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_나누어 떨어지는 숫자 배열"
 subtitle: "ProgrammersLevel-1-21"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

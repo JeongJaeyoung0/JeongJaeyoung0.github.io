@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_문자열 내림차순으로 배치하기"
 subtitle: "ProgrammersLevel-1-47"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

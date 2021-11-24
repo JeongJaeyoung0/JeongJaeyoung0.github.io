@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 3_N으로 표현"
 subtitle: "ProgrammersLevel-3-01"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

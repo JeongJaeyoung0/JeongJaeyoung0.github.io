@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_약수의 개수와 덧셈"
 subtitle: "ProgrammersLevel-1-16"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

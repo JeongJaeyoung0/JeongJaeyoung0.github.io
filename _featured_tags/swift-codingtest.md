@@ -1,8 +1,8 @@
 ---
 layout: list
 title: Coding Test
-slug: codingTestPython
-category: python
+slug: codingTestSwift
+category: java
 menu: false
-order: 8
+order: 2
 ---

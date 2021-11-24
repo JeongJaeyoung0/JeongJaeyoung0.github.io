@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_이상한 문자 만들기"
 subtitle: "ProgrammersLevel-1"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

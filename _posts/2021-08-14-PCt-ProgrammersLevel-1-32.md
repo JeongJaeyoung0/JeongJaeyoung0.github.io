@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_최대공약수와 최소공배수"
 subtitle: "ProgrammersLevel-1-32"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

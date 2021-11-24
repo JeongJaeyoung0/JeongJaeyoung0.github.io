@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_문자열 내 마음대로 정렬하기"
 subtitle: "ProgrammersLevel-1-23"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_문자열을 정수로 바꾸기"
 subtitle: "ProgrammersLevel-1-2"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

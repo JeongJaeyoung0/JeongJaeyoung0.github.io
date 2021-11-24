@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_가운데 글자 가져오기"
 subtitle: "ProgrammersLevel-1-19"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

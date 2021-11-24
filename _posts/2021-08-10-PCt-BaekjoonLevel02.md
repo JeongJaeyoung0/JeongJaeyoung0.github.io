@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Baekjoon_level 2_if문"
 subtitle: "BaekjoonLevel2"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 --- 
 

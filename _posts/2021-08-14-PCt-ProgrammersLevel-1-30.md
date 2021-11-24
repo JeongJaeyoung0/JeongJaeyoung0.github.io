@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_평균 구하기"
 subtitle: "ProgrammersLevel-1-30"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

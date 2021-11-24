@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_x만큼 간격이 있는 n개의 숫자"
 subtitle: "ProgrammersLevel-1-26"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

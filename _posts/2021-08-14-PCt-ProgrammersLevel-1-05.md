@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_로또의 최고 순위와 최저 순위"
 subtitle: "ProgrammersLevel-1-5"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

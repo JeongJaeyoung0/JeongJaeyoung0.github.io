@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Coding Test
-slug: codingtest
+slug: codingTestJava
 category: java
 menu: false
 order: 2

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_부족한 금액 계산하기"
 subtitle: "ProgrammersLevel-1-49"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

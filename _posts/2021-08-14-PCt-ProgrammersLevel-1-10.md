@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_음양 더하기"
 subtitle: "ProgrammersLevel-1-10"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

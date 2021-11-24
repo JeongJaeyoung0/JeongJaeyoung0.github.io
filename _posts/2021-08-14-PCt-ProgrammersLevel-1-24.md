@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_문자열 내 p와 y의 개수"
 subtitle: "ProgrammersLevel-1-24"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

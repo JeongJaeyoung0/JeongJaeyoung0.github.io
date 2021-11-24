@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_3진법 뒤집기"
 subtitle: "ProgrammersLevel-1-14"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

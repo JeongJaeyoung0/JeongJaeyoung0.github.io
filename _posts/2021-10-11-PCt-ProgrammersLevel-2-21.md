@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_가장 큰 정사각형 찾기"
 subtitle: "ProgrammersLevel-2-21"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

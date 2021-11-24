@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_두 개 뽑아서 더하기"
 subtitle: "ProgrammersLevel-1-17"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

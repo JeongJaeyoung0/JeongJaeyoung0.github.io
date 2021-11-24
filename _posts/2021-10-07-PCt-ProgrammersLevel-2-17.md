@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_최댓값과 최솟값"
 subtitle: "ProgrammersLevel-2-17"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

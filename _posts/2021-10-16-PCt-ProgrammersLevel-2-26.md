@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_주식가격"
 subtitle: "ProgrammersLevel-2-25"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_행렬 테두리 회전하기"
 subtitle: "ProgrammersLevel-2-09"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

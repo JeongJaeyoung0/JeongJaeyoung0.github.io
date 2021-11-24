@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_자연수 뒤집어 배열로 만들기"
 subtitle: "ProgrammersLevel-1-37"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

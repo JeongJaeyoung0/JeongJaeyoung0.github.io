@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_다음 큰 숫자"
 subtitle: "ProgrammersLevel-2-12"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_정수 제곱근 판별"
 subtitle: "ProgrammersLevel-1-35"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

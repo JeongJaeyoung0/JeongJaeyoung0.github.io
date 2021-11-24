@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_문자열 다루기 기본"
 subtitle: "ProgrammersLevel-1-44"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

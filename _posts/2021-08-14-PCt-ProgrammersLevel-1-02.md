@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_크레인 인형뽑기 게임"
 subtitle: "ProgrammersLevel-1-2"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

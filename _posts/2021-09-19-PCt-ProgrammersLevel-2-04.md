@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_멀쩡한 사각형"
 subtitle: "ProgrammersLevel-2-04"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

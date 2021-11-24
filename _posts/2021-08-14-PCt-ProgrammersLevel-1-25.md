@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_직사각형 별찍"
 subtitle: "ProgrammersLevel-1-25"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

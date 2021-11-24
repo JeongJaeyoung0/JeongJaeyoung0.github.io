@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_행렬의 곱셈"
 subtitle: "ProgrammersLevel-2-15"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

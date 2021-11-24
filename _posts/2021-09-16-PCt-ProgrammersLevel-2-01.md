@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 2_124 나라의 숫자"
 subtitle: "ProgrammersLevel-2-01"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

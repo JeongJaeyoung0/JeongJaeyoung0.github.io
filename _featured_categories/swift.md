@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Java
-slug: java
+title: Swift
+slug: swift
 menu: true
 submenu: true
-order: 4
+order: 3
 description: >
-  Related to the Java
+  Related to the Swift
 ---

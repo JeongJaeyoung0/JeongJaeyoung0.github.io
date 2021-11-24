@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_짝수와 홀수"
 subtitle: "ProgrammersLevel-1-34"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "[Coding test] Programmers_level 1_콜라츠 추측"
 subtitle: "ProgrammersLevel-1-31"
 categories: python
-tags: codingtest
+tags: codingTestPython
 comments: true
 ---
 
