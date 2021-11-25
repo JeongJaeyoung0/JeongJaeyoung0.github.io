@@ -2,7 +2,7 @@
 layout: list
 title: Coding Test
 slug: codingTestSwift
-category: java
+category: swift
 menu: false
 order: 2
 ---
