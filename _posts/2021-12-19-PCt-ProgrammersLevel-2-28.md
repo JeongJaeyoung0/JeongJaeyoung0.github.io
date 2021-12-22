@@ -28,6 +28,6 @@ def solution(brown, yellow):
 >>> solution(8, 1)
 [3, 3]
 
->>> solution(24, 24))
+>>> solution(24, 24)
 [8, 6]
 ```
