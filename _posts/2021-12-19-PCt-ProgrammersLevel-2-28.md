@@ -12,7 +12,7 @@ comments: true
 ```python
 def solution(brown, yellow):
     # 노란색 카펫의 가능한 (가로, 세로) 배열
-    y = [(yellow // y, y) for y in range(1, int(yellow ** 0.5)+1) if yellow % y == 0]
+    y = [(yellow // y, y) for y in range(1, int(yellow ** 0.5) + 1) if yellow % y == 0]
     # 배열 for문
     for x, y in y:
         # 배열 중 갈색의 개수의 경우가 가능 할 경우
