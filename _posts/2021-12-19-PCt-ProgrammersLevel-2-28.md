@@ -17,7 +17,7 @@ def solution(brown, yellow):
     for x, y in y:
         # 배열 중 갈색의 개수의 경우가 가능 할 경우
         if brown == (x + y) * 2 + 4:
-            # 노란색 배열 + 2만큼 반환
+            # 노란색 배열 +2 만큼 반환
             return [x + 2, y + 2]
 ```
 
