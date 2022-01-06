@@ -6,6 +6,7 @@ categories: webapp
 tags: db
 comments: true
 ---
+# 정리중
 # DB 설계 방법
  Tool: MySQL Workbench(6.x ver), HeidiSQL, MariaDB
  방법: MySQL로 설계 후 HeidiSQL로 사용(Diagram으로 보기 위함)
