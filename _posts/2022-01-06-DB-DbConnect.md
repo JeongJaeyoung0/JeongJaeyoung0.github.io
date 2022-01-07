@@ -6,7 +6,7 @@ categories: webapp
 tags: db
 comments: true
 ---
-# 정리중
+
 # DB 연결 방법
 
 1. Visual Studio > 확장 > 확장 관리> EF Core Power Tool 설치
@@ -18,6 +18,7 @@ comments: true
 4. 프로젝트 우클릭 > EF Core Power Tool > Reverse Engineer > MySql 변경 및  정보 입력
 
 5. Startup.cs > services.AddControllersWithViews(); > 아래 줄에 코드 추가
+
 ```
 //DB 연결 세팅
 ConnectionString = Configuration.GetConnectionString("DefaultConnection");
@@ -25,7 +26,7 @@ services.AddDbContext<//Context이름 입력//>(options => options.UseMySql(Conn
 services.AddControllersWithViews();
 services.AddSingleton<IConfiguration>(Configuration);
 services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-```'
+```
 
 6. 변수 선언
 ```
@@ -43,7 +44,8 @@ string ConnectionString = null;
 
 
 
-# Data DB로 보내기(이방법 사용하지말고 PowerTool이용)
+# Data DB로 보내기
+(이방법 사용하지말고 PowerTool이용)
 
 1. Model 생성
 
@@ -78,9 +80,9 @@ public void PortfoiloPost([FromForm] //모델명PortfolioPost// //변수명pp//)
 # PowerTool 이용
 1. Controller, ApiController, Index.cshtml, Post.cshtml 복붙
 
-2. 코드들 대소문자 확인
+2. 코드 추가, 삭제, 대소문자 확인
 
-3. Controller의 "[Authorize]" 인증? 관련된 것이라??? 삭제??
+3. Controller의 "[Authorize]" 인증? 관련된 것이라 삭제??
 
 4. _Layout.cshtml에 잴 아래 "@"로 시작하는 코드 삭제 (이유는 모르겠음)
 
@@ -109,7 +111,7 @@ function getDateTimeForMain(date) {
     return '';
   }
 }
-````
+```
 
 7. moment 라이브러리 삽입
 
