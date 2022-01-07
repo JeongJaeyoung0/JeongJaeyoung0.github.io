@@ -18,7 +18,6 @@ comments: true
 4. 프로젝트 우클릭 > EF Core Power Tool > Reverse Engineer > MySql 변경 및  정보 입력
 
 5. Startup.cs > services.AddControllersWithViews(); > 아래 줄에 코드 추가
-
 ```
 //DB 연결 세팅
 ConnectionString = Configuration.GetConnectionString("DefaultConnection");
@@ -50,30 +49,30 @@ string ConnectionString = null;
 1. Model 생성
 
 2. Api/*Controller.cs > public class > 아래 줄에 코드 추가
-```
-private readonly HubinwebContext _context;
-public HomeController(HubinwebContext context)
-{
-    _context = context;
-}
-```
+  ```
+  private readonly HubinwebContext _context;
+  public HomeController(HubinwebContext context)
+  {
+      _context = context;
+  }
+  ```
 
 3. Api 코드 추가
-```
-[HttpPost("PortfoiloPost")]
-public void PortfoiloPost([FromForm] //모델명PortfolioPost// //변수명pp//)
-{
-    Portfolio pf = new Portfolio();
-    pf.Title = pp.Title;
-    pf.Contents = pp.Contents;
-    pf.RegDate = DateTime.Now;
-    pf.UseYn = "Y";
-    pf.Category = pp.Category;
+  ```
+  [HttpPost("PortfoiloPost")]
+  public void PortfoiloPost([FromForm] //모델명PortfolioPost// //변수명pp//)
+  {
+      Portfolio pf = new Portfolio();
+      pf.Title = pp.Title;
+      pf.Contents = pp.Contents;
+      pf.RegDate = DateTime.Now;
+      pf.UseYn = "Y";
+      pf.Category = pp.Category;
 
-    _context.Add(pf);
-    _context.SaveChanges();
-}
-```
+      _context.Add(pf);
+      _context.SaveChanges();
+  }
+  ```
 
 
 
@@ -89,34 +88,33 @@ public void PortfoiloPost([FromForm] //모델명PortfolioPost// //변수명pp//)
 5. datatables 라이브러리 삽입
 
 6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가(위치 중요함)
-
-```
-<link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
-<script type="text/javascript" src="/lib/datatables/datatables.min.js"></script>
-```
+  ```
+  <link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
+  <script type="text/javascript" src="/lib/datatables/datatables.min.js"></script>
+  ```
 
 7. wwwroot > js > site.js 에 코드 추가
-```
-function getDateTime(date) {
-  if (date) {
-    return moment(date).format('YYYY-MM-DD HH:mm:ss');
-  } else {
-    return '';
+  ```
+  function getDateTime(date) {
+    if (date) {
+      return moment(date).format('YYYY-MM-DD HH:mm:ss');
+    } else {
+      return '';
+    }
   }
-}
 
-function getDateTimeForMain(date) {
-  if (date) {
-    return moment(date).format('YYYY-MM-DD');
-  } else {
-    return '';
+  function getDateTimeForMain(date) {
+    if (date) {
+      return moment(date).format('YYYY-MM-DD');
+    } else {
+      return '';
+    }
   }
-}
-```
+  ```
 
 8. moment 라이브러리 삽입
 
 9. _Layout.cshtml에 moment 라이브러리 관련 코드 추가(위치 중요함)
-```
-<script src="/lib/moment/moment.min.js"></script>
-```
+  ```
+  <script src="/lib/moment/moment.min.js"></script>
+  ```

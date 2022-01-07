@@ -11,7 +11,7 @@ comments: true
   - Tool: MySQL Workbench(6.x ver), HeidiSQL, MariaDB
   - 방법: MySQL로 설계 후 HeidiSQL로 사용(Diagram으로 보기 위함)
 
-# DB 설계 순서
+## DB 설계 순서
 1. MySQL에서 테이블 설계  
     - Datatype 설명
         - VARCHAR: text길이 지정한 만큼 입력(지정 길이보다 짧게 입력하면 그 길이만큼만 저장)
