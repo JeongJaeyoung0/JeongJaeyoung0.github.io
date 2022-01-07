@@ -88,6 +88,7 @@ string ConnectionString = null;
 5. datatables 라이브러리 삽입
 
 6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가(위치 중요함)
+
   ```
   <link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
   <script type="text/javascript" src="/lib/datatables/datatables.min.js"></script>
