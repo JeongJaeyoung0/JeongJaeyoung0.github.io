@@ -18,14 +18,14 @@ comments: true
 4. 프로젝트 우클릭 > EF Core Power Tool > Reverse Engineer > MySql 변경 및  정보 입력
 
 5. Startup.cs > services.AddControllersWithViews(); > 아래 줄에 코드 추가
-```
-//DB 연결 세팅
-ConnectionString = Configuration.GetConnectionString("DefaultConnection");
-services.AddDbContext<//Context이름 입력//>(options => options.UseMySql(ConnectionString, //Context에 접속 정보 관련 버전 복붙 Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb")//));
-services.AddControllersWithViews();
-services.AddSingleton<IConfiguration>(Configuration);
-services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-```
+  ```
+  //DB 연결 세팅
+  ConnectionString = Configuration.GetConnectionString("DefaultConnection");
+  services.AddDbContext<//Context이름 입력//>(options => options.UseMySql(ConnectionString, //Context에 접속 정보 관련 버전 복붙 Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb")//));
+  services.AddControllersWithViews();
+  services.AddSingleton<IConfiguration>(Configuration);
+  services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+  ```
 
 6. 변수 선언
 ```
