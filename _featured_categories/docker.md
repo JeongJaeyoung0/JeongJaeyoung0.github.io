@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Docker
-slug: docker
+title: Other
+slug: other
 menu: true
-submenu: true
+submenu: false
 order: 6
 description: >
-  Related to the Docker
+  Related to the Docker, DB
 ---

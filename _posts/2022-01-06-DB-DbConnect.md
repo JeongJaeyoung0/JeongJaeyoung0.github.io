@@ -2,7 +2,7 @@
 layout: post
 title: "[DB] DB 연결 방법"
 subtitle: "DbSetting"
-categories: webapp
+categories: other
 tags: db
 comments: true
 ---
