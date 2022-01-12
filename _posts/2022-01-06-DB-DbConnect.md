@@ -58,7 +58,7 @@ comments: true
   ```
 
 3. Api 코드 추가
-  ```html
+  ```C#
   [HttpPost("PortfoiloPost")]
   public void PortfoiloPost([FromForm] //모델명PortfolioPost// //변수명pp//)
   {
@@ -89,30 +89,11 @@ comments: true
 
 6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가
 
-
-
-
-
-
-
-
-
-
-
-
-</br></br>
-
-
-
-
-
-
-
-
-
   ```html
+  ~~~
   <link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
   <script type="text/javascript" src="/lib/datatables/datatables.min.js"></script>
+  ~~~
   ```
 
 7. wwwroot > js > site.js 에 코드 추가</br></br>
