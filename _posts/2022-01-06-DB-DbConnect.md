@@ -87,8 +87,7 @@ comments: true
 
 5. datatables 라이브러리 삽입
 
-6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가
-
+6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가(위치 중요)
   ```html
   ~~~
   <link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
@@ -96,7 +95,7 @@ comments: true
   ~~~
   ```
 
-7. wwwroot > js > site.js 에 코드 추가</br></br>
+7. wwwroot > js > site.js 에 코드 추가
   ```c#
   function getDateTime(date) {
     if (date) {
