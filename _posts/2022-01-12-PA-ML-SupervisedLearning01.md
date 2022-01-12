@@ -41,7 +41,13 @@ comments: true
             - 앙상블 기법
         - 그라디언트 부스팅 회귀(GradientBoostingRegressor)
             - 앙상블 기법
-
+    - 추천 시스템
+    - 시각/음성 감지/인지
+    - 텍스트 분석, NLP
+- 비지도학습
+    - 군집화(Clustering)
+    - 차원축소(DimensionReduction)
+- 강화학습
 * * *
 
 # 파이썬 머신러닝 주요 패키지
