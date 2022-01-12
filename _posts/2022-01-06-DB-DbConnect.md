@@ -28,20 +28,20 @@ comments: true
   ```
 
 6. 변수 선언
-```
-string ConnectionString = null;
-```
+  ```
+  string ConnectionString = null;
+  ```
 
 7. appsettings.json > 코드 추가
-```
-"ConnectionStrings": {
-  "DefaultConnection": "//Context에 접속 정보 복붙 server=127.0.0.1;user id=root;password=0000;database=hubinweb//"
-},
-```
+  ```
+  "ConnectionStrings": {
+    "DefaultConnection": "//Context에 접속 정보 복붙 server=127.0.0.1;user id=root;password=0000;database=hubinweb//"
+  },
+  ```
 
 8. 연결 완료
 
-
+* * *
 
 # Data DB로 보내기
 (이방법 사용하지말고 PowerTool이용)
@@ -74,7 +74,7 @@ string ConnectionString = null;
   }
   ```
 
-
+* * *
 
 # PowerTool 이용
 1. Controller, ApiController, Index.cshtml, Post.cshtml 복붙
@@ -87,8 +87,7 @@ string ConnectionString = null;
 
 5. datatables 라이브러리 삽입
 
-6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가(위치 중요함)
-
+6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가
   ```
   <link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
   <script type="text/javascript" src="/lib/datatables/datatables.min.js"></script>
