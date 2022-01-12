@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "[AI] ML - 머신러닝 성능 평가"
-subtitle: "SupervisedLearning03"
+subtitle: "SupervisedLearning04"
 categories: python
 tags: ai
 comments: true
 ---
-
 # 머신러닝 성능 평가
 
 ### 지도학습
@@ -18,11 +17,7 @@ comments: true
     - 사이킷런에서 confusion_matrix() API 제공
 
 <table
-    border="1"
-    width="50%"
-    height="200"
-    cellspacing="5">
-    <caption>표 제목</caption>
+    border="1">
     <thead>
         <tr align="center">
             <td></td>
