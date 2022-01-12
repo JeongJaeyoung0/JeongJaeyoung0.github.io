@@ -96,7 +96,8 @@ comments: true
     ~~~
   ```
 
-7. wwwroot > js > site.js 에 코드 추가
+7. wwwroot > js > site.js 에 코드 추가<br>
+
   ```c#
   function getDateTime(date) {
     if (date) {

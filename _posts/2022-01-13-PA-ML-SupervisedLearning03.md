@@ -6,7 +6,6 @@ categories: python
 tags: ai
 comments: true
 ---
-
 # 데이터 전처리
 - ML 알고리즘만큼 중요함, 데이터 기반이기 때문
 - 결손값(NaN, Null) 값 처리 (드롭, 평균, 최소, 최대 등 방법으로 처리)
