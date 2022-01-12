@@ -18,22 +18,22 @@ comments: true
 4. 프로젝트 우클릭 > EF Core Power Tool > Reverse Engineer > MySql 변경 및  정보 입력
 
 5. Startup.cs > services.AddControllersWithViews(); > 아래 줄에 코드 추가
-  ```
+  ```c#
   //DB 연결 세팅
   ConnectionString = Configuration.GetConnectionString("DefaultConnection");
-  services.AddDbContext<//Context이름 입력//>(options => options.UseMySql(ConnectionString, //Context에 접속 정보 관련 버전 복붙 Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb")//));
+  services.AddDbContext<콘텍스트이름입력>(options => options.UseMySql(ConnectionString, 콘텍스트에 접속 정보 관련 버전 복붙ㅏMicrosoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb")ㅓ));
   services.AddControllersWithViews();
   services.AddSingleton<IConfiguration>(Configuration);
   services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
   ```
 
 6. 변수 선언
-  ```
+  ```c#
   string ConnectionString = null;
   ```
 
 7. appsettings.json > 코드 추가
-  ```
+  ```c#
   "ConnectionStrings": {
     "DefaultConnection": "//Context에 접속 정보 복붙 server=127.0.0.1;user id=root;password=0000;database=hubinweb//"
   },
@@ -49,7 +49,7 @@ comments: true
 1. Model 생성
 
 2. Api/*Controller.cs > public class > 아래 줄에 코드 추가
-  ```
+  ```c#
   private readonly HubinwebContext _context;
   public HomeController(HubinwebContext context)
   {
@@ -58,7 +58,7 @@ comments: true
   ```
 
 3. Api 코드 추가
-  ```
+  ```html
   [HttpPost("PortfoiloPost")]
   public void PortfoiloPost([FromForm] //모델명PortfolioPost// //변수명pp//)
   {
@@ -87,14 +87,14 @@ comments: true
 
 5. datatables 라이브러리 삽입
 
-6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가</br>
-  ```
+6. _Layout.cshtml에 datatables 라이브러리 관련 코드 추가</br></br>
+  ```html
   <link rel="stylesheet" type="text/css" href="/lib/datatables/datatables.min.css" />
   <script type="text/javascript" src="/lib/datatables/datatables.min.js"></script>
   ```
 
-7. wwwroot > js > site.js 에 코드 추가</br>
-  ```
+7. wwwroot > js > site.js 에 코드 추가</br></br>
+  ```c#
   function getDateTime(date) {
     if (date) {
       return moment(date).format('YYYY-MM-DD HH:mm:ss');
@@ -115,6 +115,6 @@ comments: true
 8. moment 라이브러리 삽입
 
 9. _Layout.cshtml에 moment 라이브러리 관련 코드 추가(위치 중요함)
-  ```
+  ```c#
   <script src="/lib/moment/moment.min.js"></script>
   ```
