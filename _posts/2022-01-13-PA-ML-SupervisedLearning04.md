@@ -64,14 +64,14 @@ comments: true
 ### 지도학습 - 회귀
 
 - MAE (Mean Absolute Error)
-    - $MAE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} |Yi- \hat{Y}i|$
+    - $$MAE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} |Yi- \hat{Y}i|$$
     - 실제 값과 예측 값의 차이를 절댓값으로 변환해 평균
 - MSE (Mean Squared Log Error)
-    - $MSE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2$
+    - $$MSE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2$$
     - 실제 값과 예측값의 차이를 제곱해 평균
 - RMSE (Root Mean Squared Eerror)
-    - $RMSE = \sqrt{\frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2}$
+    - $$RMSE = \sqrt{\frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2}$$
     - MSE에 루트를 씌운 값
 - R2 Score(Coefficient of Determination, 결정계수)
-    - $R^2 = \frac{예측값 Variance}{실제값 Variance}$
+    - $$R^2 = \frac{예측값 Variance}{실제값 Variance}$$
     - 분산 기반으로 예측 성능을 평가하며, 1에 가까울수록 정확도가 높음
