@@ -25,7 +25,7 @@ comments: true
 <br>
 
 ### 앙상블 학습 종류
-- 랜덤 포레스트
+- RandomForest
     - 배깅 유형
     - 여러 개의 결정트리에 데이터 세트를 랜덤하게 중첩되게 분리(부트스트래핑, bootstrapping)하여 학습
 - GBM(Gradient Boost Machine)
