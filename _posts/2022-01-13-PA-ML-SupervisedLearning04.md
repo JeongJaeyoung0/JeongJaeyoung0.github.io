@@ -67,7 +67,9 @@ comments: true
     - $MAE = \\frac{1}{n} \\displaystyle\\sum_{i=1}^{n} |Yi- \\hat{Y}i|$
     - 실제 값과 예측 값의 차이를 절댓값으로 변환해 평균
 - MSE (Mean Squared Log Error)
-    - $MSE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2$
+
+$MSE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2$
+
     - 실제 값과 예측값의 차이를 제곱해 평균
 - RMSE (Root Mean Squared Eerror)
     - $RMSE = \sqrt{\frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2}$
