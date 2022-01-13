@@ -16,6 +16,8 @@ comments: true
 - 지도학습
     - 분류(Classifier): 예측하고자 하는 타겟값이 범주형 변수(이진분류, 다중분류)
         - 결정트리 분류(DecisionTreeClassifier)
+            - Graphviz 패키지: 결정 트리 시각화 (https://www.graphviz.org 에서 상세 자료)
+            - export_graphviz(): 사이킷런에서 Graphviz 패키지와 쉽게 인터페이스 할 수 있도록 API 제공
         - 랜덤포레스트 분류(RandomForestClassifier)
         - 그래디언 부스팅 분류(GradientBoostingClassifier)
         - 가우시안NB 분류(GaussianNaiveBayesClassifier)
