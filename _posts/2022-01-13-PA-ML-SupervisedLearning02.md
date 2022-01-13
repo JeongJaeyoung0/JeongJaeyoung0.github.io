@@ -38,6 +38,7 @@ comments: true
 
 ### 교차 검증과 최적 하이퍼 파라미터 튜닝
 - GridSearchCV
+- RandomSearch
 
 > 일반적인 머신러닝 방법은 학습 데이터로 GridSearchCV를 이용해 최적 하이퍼 파라미터를 튜닝을 수행한 뒤 별도의 테스트 세트에서 이를 평가한다.
 
