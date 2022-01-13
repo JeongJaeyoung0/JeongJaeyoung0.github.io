@@ -8,7 +8,8 @@ comments: true
 ---
 # 머신러닝 성능 평가
 
-### 지도학습
+### 지도학습 - 분류
+
 - 정확도(Accuracy)
     - 정확도 = 예측 정답 건수 / 전체 예측 건수
     - ML 모델 성능 왜곡 가능성이 있기 때문에, 정확도 수치만으로 평가할 수 없음 (불균형한 레이블 값일 경우)
@@ -24,7 +25,6 @@ comments: true
                 <th>Positive(1)</th>
             </tr>
         </thead>
-
         <tbody>
             <tr align="center">
                 <th>Negative(0)</th>
@@ -58,3 +58,20 @@ comments: true
     - FPR(False Positive Rate)이 변할 때 TPR(True Positive Rate)이 어떻게 변하는지 나타내는 곡선
     - FPR = FP / (FP + TN) = 1 - TNR = 1 - 특이성
     - 1에 가까울 수록 좋은 수치
+
+<br>
+
+### 지도학습 - 회귀
+
+- MAE (Mean Absolute Error)
+    - $MAE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} |Yi- \hat{Y}i|$
+    - 실제 값과 예측 값의 차이를 절댓값으로 변환해 평균
+- MSE (Mean Squared Log Error)
+    - $MSE = \frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2$
+    - 실제 값과 예측값의 차이를 제곱해 평균
+- RMSE (Root Mean Squared Eerror)
+    - $RMSE = \sqrt{\frac{1}{n} \displaystyle\sum_{i=1}^{n} (Yi- \hat{Y}i)^2}$
+    - MSE에 루트를 씌운 값
+- R2 Score(Coefficient of Determination, 결정계수)
+    - $R^2 = \frac{예측값 Variance}{실제값 Variance}$
+    - 분산 기반으로 예측 성능을 평가하며, 1에 가까울수록 정확도가 높음
