@@ -9,6 +9,8 @@ comments: true
 
 # DB 연결 방법
 
+(ㅏ에서 ㅓ까지 내용 수정)
+
 1. Visual Studio > 확장 > 확장 관리> EF Core Power Tool 설치
 
 2. MySQL for Visual Studio 설치
@@ -21,7 +23,7 @@ comments: true
   ```c#
   //DB 연결 세팅
   ConnectionString = Configuration.GetConnectionString("DefaultConnection");
-  services.AddDbContext<콘텍스트이름입력>(options => options.UseMySql(ConnectionString, 콘텍스트에 접속 정보 관련 버전 복붙ㅏMicrosoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb")ㅓ));
+  services.AddDbContext<ㅏ콘텍스트이름입력ㅓ>(options => options.UseMySql(ConnectionString, ㅏ콘텍스트에 접속 정보 관련 버전 복붙, ex: Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb")ㅓ));
   services.AddControllersWithViews();
   services.AddSingleton<IConfiguration>(Configuration);
   services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
@@ -35,7 +37,7 @@ comments: true
 7. appsettings.json > 코드 추가
   ```c#
   "ConnectionStrings": {
-    "DefaultConnection": "//Context에 접속 정보 복붙 server=127.0.0.1;user id=root;password=0000;database=hubinweb//"
+    "DefaultConnection": "ㅏContext에 접속 정보 복붙 server=127.0.0.1;user id=root;password=0000;database=dbnameㅓ"
   },
   ```
 
