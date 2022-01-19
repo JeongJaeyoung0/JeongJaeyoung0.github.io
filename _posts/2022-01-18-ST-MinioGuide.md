@@ -41,11 +41,11 @@ comments: true
 
 2. Account 추가
   - Accounts > Add new accounts
-      - Display name: {name 입력}
-      - Account type: S3 Compatible Storage
-      - REST Endpoint: {minio 4번의 API 주소 입력}
-      - Access Key ID: {User ID}
-      - Secret Access Key: {Use Key}
-      - Use secure transfer (SSL/TLS): 체크 여부 확인 {test용 pc는 해제해도 됨}
+    - Display name: {name 입력}
+    - Account type: S3 Compatible Storage
+    - REST Endpoint: {minio 4번의 API 주소 입력}
+    - Access Key ID: {User ID}
+    - Secret Access Key: {Use Key}
+    - Use secure transfer (SSL/TLS): 체크 여부 확인 {test용 pc는 해제해도 됨}
 
 3. Account > Display name 클릭
