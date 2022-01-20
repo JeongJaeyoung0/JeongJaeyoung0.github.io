@@ -48,4 +48,4 @@ comments: true
     - Secret Access Key: {Use Key}
     - Use secure transfer (SSL/TLS): 체크 여부 확인 {test용 pc는 해제해도 됨}
 
-3. Account > Display name 클릭
+3. Account > Display name 클릭 
