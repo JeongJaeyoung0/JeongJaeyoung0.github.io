@@ -35,4 +35,4 @@ comments: true
  - Database > Forward Engineer > SSL > Use SSL: No
 
 3. HeidiSQL로 열기
- - New (포트 번호 등 입력) 
+ - New (포트 번호 등 입력)
