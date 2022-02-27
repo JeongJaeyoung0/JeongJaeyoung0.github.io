@@ -12,7 +12,7 @@ comments: true
 
 selenium 4.x 버전에서 아래 코드를 실행하면,
 ``` python
-`webdriver.Chrome(r"./chromedriver.exe")`
+webdriver.Chrome(r"./chromedriver.exe")
 ```
 
 아래와 같은 에러를 발생 시킨다. (mac 기준)
