@@ -42,4 +42,4 @@ comments: true
 - 다항 회귀
     - 회귀 계수가 비선형이지 선형회귀
 
-> 트리 기반의 모든 분류를 회귀로도 사용 가능(ex: RandomForest, GBM, XGboost, LightGBM 등) 
+> 트리 기반의 모든 분류를 회귀로도 사용 가능(ex: RandomForest, GBM, XGboost, LightGBM 등)
