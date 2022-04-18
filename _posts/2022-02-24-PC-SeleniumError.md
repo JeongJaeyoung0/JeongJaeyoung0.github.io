@@ -29,4 +29,4 @@ pip install selenium==3.14.0
 * * *
 
 # selenium 4.x version
-`selenium 4.x` 버전은 크롬 버전이 업데이트 됨에 따라 chromdrive도 업데이트 해줘야 하는 단점이 잡힌듯 하다. (직접 확인해보진 않았다.) 
+`selenium 4.x` 버전은 크롬 버전이 업데이트 됨에 따라 chromdrive도 업데이트 해줘야 하는 단점이 잡힌듯 하다. (직접 확인해보진 않았다.)
