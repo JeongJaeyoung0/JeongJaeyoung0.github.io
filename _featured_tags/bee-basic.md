@@ -1,8 +1,8 @@
 ---
 layout: list
-title: Note
-slug: noteBee
+title: Basic
+slug: basicBee
 category: bee
 menu: false
-order: 2
+order: 1
 ---

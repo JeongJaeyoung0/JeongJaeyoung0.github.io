@@ -1,6 +1,6 @@
 ---
 layout: list
-title: beekeeping
+title: Beekeeping
 slug: bee
 menu: true
 submenu: true
