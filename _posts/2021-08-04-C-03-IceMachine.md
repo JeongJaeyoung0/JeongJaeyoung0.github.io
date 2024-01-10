@@ -7,7 +7,7 @@ tags: cad
 comments: true
 ---
 
-## [3D Modeling] 대*, 삼* 냉장고의 제빙기
+## [3D Modeling] 대&#42;, 삼&#42; 냉장고의 제빙기
 2012.06.20 ~ 2012.07.23<br>
 Pro/Engineer<br>
 
